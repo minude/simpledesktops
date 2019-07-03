@@ -1,6 +1,6 @@
 class DesktopImg:
 
-	def __init__(self, name, download_url, path="E:/img"):
+	def __init__(self, name, download_url, path="/Users/minude/spider"):
 		self.name = name
 		self.path = path
 		self.download_url = download_url
